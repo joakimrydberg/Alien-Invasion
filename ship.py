@@ -4,7 +4,7 @@ import pygame
 class Ship():
 
 	def __init__(self, ai_settings, screen):
-		"""Initialise the ship and  set its starting position."""
+		"""Initialise the ship and set its starting position."""
 		self.screen = screen
 		self.ai_settings = ai_settings
 
